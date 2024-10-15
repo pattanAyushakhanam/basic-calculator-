@@ -7,3 +7,4 @@ project basic calculator
   *. clear functionality:allows user to reset the calculator
 technologies used
    programming languages:html(it's used to defined the structure page),css( it's used to make style of page),javascript(it's used to functionality of page).
+------the end-------
