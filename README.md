@@ -7,4 +7,5 @@ project basic calculator
   *. clear functionality:allows user to reset the calculator
 technologies used
    programming languages:html(it's used to defined the structure page),css( it's used to make style of page),javascript(it's used to functionality of page).
+   http://127.0.0.1:5500/basic%20calulator/calculator.html
 ------the end-------
